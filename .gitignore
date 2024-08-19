@@ -1,3 +1,16 @@
 *.cache
+*.log
 
 autotools/aclocal.m4
+autotools/compile
+autotools/configure
+autotools/install-sh
+autotools/depcomp
+autotools/Makefile.in
+autotools/missing
+autotools/Makefile
+autotools/.deps/main.Po
+autotools/config.status
+autotools/hello.o
+autotools/hello
+autotools/.deps/hello.Po
